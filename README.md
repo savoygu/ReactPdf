@@ -7,7 +7,7 @@ Rendering PDF by pdf.js, including lazy loading and page-jump
 Install with yarn add react-better-pdf or npm install react-better-pdf
 
     import React, { Component } from 'react'
-    import ReactPdf from 'inter-reactpdf'
+    import ReactPdf from 'react-better-pdf' 
 
     class index extends Component {
 
