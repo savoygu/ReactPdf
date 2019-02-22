@@ -1,6 +1,6 @@
 {
   "name": "react-better-pdf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Rendering PDF by pdf.js, including lazy loading and page jump",
   "main": "dist/reactPdf.js",
   "module": "dist/reactPdf.esm.js",
